@@ -7,7 +7,6 @@ namespace Tyuiu.IgnatevNs.Sprint0.Task2.V0
         {
             Console.WriteLine(DataService.GetMessage("Никита"));
             Console.ReadKey();
-            Console.ReadKey();
 
         }
     }
